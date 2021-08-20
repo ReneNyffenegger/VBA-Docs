@@ -24,7 +24,7 @@ _expression_ A variable that represents a **TextBox** object.
 
 ## Remarks
 
-**True** if the text is displayed across multiple lines (default). Falase if the text is not displayed across multiple lines.
+**True** if the text is displayed across multiple lines (default). False if the text is not displayed across multiple lines.
 
 A multiline  **[TextBox](Outlook.textbox.md)** allows absolute line breaks and adjusts its quantity of lines to accommodate the amount of text it holds. If needed, a multiline control can have vertical scroll bars.
 
